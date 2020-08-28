@@ -4,11 +4,11 @@ Homework assignment #19
 
 
 
-## Submission on BCS
+## Application Links
 
-You are required to submit the following:
+The app is available at the following links:
 
-* the URL to the deployed application
+* https://stark-badlands-93907.herokuapp.com/
 
 * https://drkittendorf.github.io/19-employee-directory/
 * https://github.com/drkittendorf
