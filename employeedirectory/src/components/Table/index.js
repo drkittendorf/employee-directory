@@ -12,35 +12,29 @@ const Table = () => {
         label: 'Last',
         field: 'last',
         sort: 'dsc',
-        width: 150
+        width: 100
         },   
 
         {
         label: 'First',
         field: 'first',
         sort: 'dsc',
-        width: 150
+        width: 100
         },
     
-        {
-        label: 'DOB',
-        field: 'dob',
-        sort: 'dsc',
-        width: 150
-        },
-
         {
         label: 'Email',
         field: 'email',
         sort: 'dsc',
-        width: 150
+        width: 100
         },
-      {
+
+        {
         label: 'Photo',
         field: 'picture',
         sort: 'dsc',
         width: 100
-      },
+        },
      ]);
  
 
@@ -54,7 +48,6 @@ const Table = () => {
         return {
           first: employee.name.first,
           last: employee.name.last,
-          dob: employee.dob.date,
           email: employee.email,
           picture: <img src={employee.picture.thumbnail} alt={employee.name.first} />
         }
