@@ -13,14 +13,13 @@ For this assignment, you'll create a employee directory with React. This assignm
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
-## Acceptance Criteria
+## Description
 
-Given a table of random users, when the user loads the page, a table of employees should render. 
+With a table of random users, when the user loads the page, a table of employees renders. 
 
-The user should be able to:
+The user can:
 
   * Sort the table by at least one category
-
   * Filter the users by at least one property.
 
 
