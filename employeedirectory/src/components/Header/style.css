@@ -2,7 +2,12 @@
     align-content: center;
 }
 
+body {
+    width: 95vw;
+    align-self: center;    
+    }
+
    .header, .title {
     align-content: center;
-    
 }
+

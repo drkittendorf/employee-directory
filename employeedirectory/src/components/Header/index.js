@@ -1,14 +1,15 @@
-import React from 'react';
-import './style.css'
+import React from "react";
+import Navbar from 'react-bootstrap/Navbar'
+import "./style.css"
 
-const Header = () => {
+function Header() {
     return (
-        <div className="header">
-            <h1 className="title">Employee Directory</h1>
-
-        </div>
+        <Navbar bg='dark' variant='dark' className="display-flex content-center mb-4">
+            <Navbar.Brand href="/" className='text-black' >
+                <h1>Dale's Employee Directory</h1>
+            </Navbar.Brand>
+        </Navbar>
     )
 }
 
-// Export Component as Header
-export default Header;
+export default Header; 

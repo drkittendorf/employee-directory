@@ -1,0 +1,13 @@
+* {
+padding: .5rem;
+}
+
+body {
+width: 95vw;
+height: 85vh;
+}
+
+.form-control-sm {
+ align-self: left;
+ color: gray;
+}
