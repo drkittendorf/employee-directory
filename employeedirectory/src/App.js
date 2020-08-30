@@ -1,10 +1,18 @@
 import React from 'react';
 import './App.css';
-import Form from './components/Form';
+import Home from './components/Home';
+import Header from './components/Header';
+import Search from './components/Search';
+//insert links to other pages on site
 
 function App() {
   return (
-    <Form />
+    <div>
+        <Header />
+        <Search />
+        <Home />
+    </div>
+    
   );
 }
 
