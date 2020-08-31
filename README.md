@@ -34,5 +34,5 @@ The app is available at the following links:
 
 ## Application images
 
-![image] (public\19employeedir.png)
+![screenshot1](public\19employeedir.png)
 
