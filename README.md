@@ -27,7 +27,12 @@ The user can:
 
 The app is available at the following links:
 
-* https://stark-badlands-93907.herokuapp.com/
+* https://stark-badlands-93907.herokuapp.com/ -  Not functioning
 
 * https://github.com/drkittendorf/19-employee-directory/
 * https://drkittendorf.github.io/19-employee-directory/
+
+## Application images
+
+![image] (public\19employeedir.png)
+
