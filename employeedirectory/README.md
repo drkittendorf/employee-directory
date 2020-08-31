@@ -29,5 +29,5 @@ The app is available at the following links:
 
 * https://stark-badlands-93907.herokuapp.com/
 
+* https://github.com/drkittendorf/19-employee-directory/
 * https://drkittendorf.github.io/19-employee-directory/
-* https://github.com/drkittendorf
