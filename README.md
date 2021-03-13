@@ -1,25 +1,3 @@
-
-## Overview
-
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
-
-
-
-## Business Context
-
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
-
-## Application Links
-
-The app is available at the following links:
-
-* https://stark-badlands-93907.herokuapp.com/ -  Not functioning
-
-
-## Application images
-
-
-
 # DALE'S REACT EMPLOYEE DIRECTORY
 
 ### TABLE OF CONTENTS
@@ -27,8 +5,8 @@ The app is available at the following links:
 - [CONTRIBUTOR(s)](#CONTRIBUTOR(s))
 - [DESCRIPTION](#DESCRIPTION)
 - [REFERENCE LINKS](#REFERENCE-LINKS)
-  - [Dale's React PRODUCTIVITY Application :: Live Link](https://drkittendorf.github.io/19-employee-directory/)
-  - [Dale's React PRODUCTIVITY Application :: GitHub Repo](https://github.com/drkittendorf/19-employee-directory/)
+  - [Dale's React EMPLOYEE DIRECTORY Application :: Live Link](https://drkittendorf.github.io/19-employee-directory/)
+  - [Dale's React EMPLOYEE DIRECTORY Application :: GitHub Repo](https://github.com/drkittendorf/19-employee-directory/)
 - [LANGUAGES AND TOOLS](#LANGUAGES-AND-TOOLS)
 - [CORE PROJECT TECHNOLOGIES](#CORE-PROJECT-TECHNOLOGIES)
 - [CORE NODE DEPENDENCIES](#CORE-NODE-DEPENDENCIES)
@@ -46,25 +24,22 @@ Dale Kittendorf
 
 ## DESCRIPTION
 
-- User Story
-
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
-
-<br>
----
+This react website **showcases** a table of employees largely powered by the `mdbreact` package and dummy data supplied from `RANDOM USER GENERATOR` (https://randomuser.me/api/?results=200&nat=us).
 
 With a table of random users, when the user loads the page, a table of employees renders. 
 
 The user can:
+- Sort the table by at least one category
+- Filter the users by at least one property.
 
-  * Sort the table by at least one category
-  * Filter the users by at least one property.
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
+## USER STORY
 
-This react website **showcases** several pieces of functionality to increase daily productivity.
+- As a user, I want to be able to view my entire employee directory at once 
+- So that I have quick access to their information.
 
 <br>
-
 ---
 
 ## REFERENCE LINKS
@@ -115,7 +90,7 @@ The dependencies listed below are all the core NPM packages used throughout the 
 
 For `future` development, I would like to incorporate the following `enhancements`:
 
--
+- * https://stark-badlands-93907.herokuapp.com/ -  Not functioning
 
 
 ---
