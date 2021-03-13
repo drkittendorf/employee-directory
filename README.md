@@ -46,7 +46,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 Link to **Dale's Employee Directory ** deployed on Github - [Application Live Link](https://drkittendorf.github.io/19-employee-directory/)
 
-Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/19-employee-directory/y)
+Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/19-employee-directory/)
 
 <br>
 
@@ -90,7 +90,7 @@ The dependencies listed below are all the core NPM packages used throughout the 
 
 For `future` development, I would like to incorporate the following `enhancements`:
 
-- * https://stark-badlands-93907.herokuapp.com/ -  Not functioning
+- Get deployed on HEROKU @  https://stark-badlands-93907.herokuapp.com/ - This is Not currently functioning.
 
 
 ---
