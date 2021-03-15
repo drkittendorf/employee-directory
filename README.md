@@ -5,8 +5,8 @@
 - [CONTRIBUTORS](#CONTRIBUTORS)
 - [DESCRIPTION](#DESCRIPTION)
 - [REFERENCE LINKS](#REFERENCE-LINKS)
-  - [Dale's React EMPLOYEE DIRECTORY Application :: Live Link](https://drkittendorf.github.io/19-employee-directory/)
-  - [Dale's React EMPLOYEE DIRECTORY Application :: GitHub Repo](https://github.com/drkittendorf/19-employee-directory/)
+  - [Dale's React EMPLOYEE DIRECTORY Application :: Live Link](https://drkittendorf.github.io/employee-directory/)
+  - [Dale's React EMPLOYEE DIRECTORY Application :: GitHub Repo](https://github.com/drkittendorf/employee-directory/)
 - [LANGUAGES AND TOOLS](#LANGUAGES-AND-TOOLS)
 - [CORE PROJECT TECHNOLOGIES](#CORE-PROJECT-TECHNOLOGIES)
 - [CORE NODE DEPENDENCIES](#CORE-NODE-DEPENDENCIES)
@@ -44,9 +44,9 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## REFERENCE LINKS
 
-Link to **Dale's Employee Directory ** deployed on Github - [Application Live Link](https://drkittendorf.github.io/19-employee-directory/)
+Link to **Dale's Employee Directory ** deployed on Github - [Application Live Link](https://drkittendorf.github.io/employee-directory/)
 
-Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/19-employee-directory/)
+Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/employee-directory/)
 
 <br>
 
