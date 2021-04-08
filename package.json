@@ -1,7 +1,7 @@
 {
-  "homepage": "https://drkittendorf.github.io/19-employee-directory/",
+  "homepage": "https://drkittendorf.github.io/employee-directory/",
   "name": "employeedirectory",
-  "description": "Homework assignment #19",
+  "description": "Employee Directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
