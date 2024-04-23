@@ -9,13 +9,13 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bootstrap": "^5.0.0",
-    "mdbreact": "^5.0.2",
+    "mdbreact": "^4.6.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.0",
     "react-dom": "^17.0.2",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -41,10 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
-    "postcss": "^8.2.15"
-  },
-  "peerDependencies": {
-    "postcss": "^8.2.15"
+    "gh-pages": "^6.1.1"
   }
 }
